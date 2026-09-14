@@ -1,1 +1,1 @@
-notebooks
+notebooks - pipeline demo
